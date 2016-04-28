@@ -1,6 +1,10 @@
 {
-  "name": "meteor/meteor",
-  "main": "meteor.d.ts",
+  "name": "meteor",
+  "main": "meteor_node.d.ts",
   "browser": "meteor.d.ts",
-  "homepage": "https://meteor.com/"
+  "homepage": "https://meteor.com",
+  "files": [
+    "meteor.d.ts",
+    "meteor_node.d.ts"
+  ]
 }
