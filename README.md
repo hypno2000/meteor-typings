@@ -1,1 +1,1 @@
-## Typings for Meteor and related packages
+## Typings for Meteor
