@@ -3,6 +3,7 @@
   "main": "meteor_server.d.ts",
   "browser": "meteor.d.ts",
   "homepage": "https://meteor.com",
+  "ambient": true,
   "files": [
     "meteor.d.ts",
     "meteor_server.d.ts"
