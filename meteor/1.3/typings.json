@@ -1,0 +1,6 @@
+{
+  "name": "meteor/meteor",
+  "main": "meteor.d.ts",
+  "browser": "meteor.d.ts",
+  "homepage": "https://meteor.com/"
+}
