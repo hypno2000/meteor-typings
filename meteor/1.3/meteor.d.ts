@@ -182,6 +182,7 @@ declare module 'meteor/meteor' {
     /** utils **/
     function startup(func: Function): void;
     function wrapAsync(func: Function, context?: Object): any;
+    function bindEnvironment<F extends Function>(func: F, errFunc?: Function): F;
     /** utils **/
   }
 
